@@ -10,7 +10,7 @@ const problems = [
   {
     icon: DollarSign,
     title: 'Subscription dependency',
-    desc: 'Many platforms require $200–$360 annual subscriptions for insights derived from your own biometric data. This pricing model prioritizes recurring revenue over athlete outcomes.',
+    desc: 'Many platforms charge $200–$360 per year for insights derived from your own biometric data. Their business model depends on you paying forever, not on the value you receive.',
   },
   {
     icon: Lock,
